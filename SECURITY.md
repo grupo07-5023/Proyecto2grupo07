@@ -1,5 +1,5 @@
 # Política de seguridad del equipo
 
 Contacto de seguridad: adelriohen@gmail.com Aitor
-Contacto de seguridad: adelriohen@gmail.com Bryan
-Última revisión: 15 septiembre 20:20 cest 
+Contacto de seguridad: bhernandezflorian@gmail.com Bryan
+Última revisión: 15 septiembre 18:14 cest Bryan
