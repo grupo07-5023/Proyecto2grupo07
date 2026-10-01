@@ -1,4 +1,4 @@
-# Checklist de hardening del servidor web
+# Checklist de Harding del servidor web
 
 Estado global: 3/3 completado
 
