@@ -2,6 +2,6 @@
 
 Estado global: 3/3 completado
 
-- [x] (ítem A, pendiente)
+- [x] Desactivar el listado de directorios (Options -Indexes) para no exponer la estructura del servidor web
 - [x] (ítem B, pendiente)
 - [x] (ítem C, realizado)
