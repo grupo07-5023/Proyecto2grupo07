@@ -2,6 +2,6 @@
 
 Estado global: 1/3 completado
 
-- [x] mi item es muy bacan, 67 de 69 dentistas lo recomiendan
+- [x] Desactivar el listado de directorios (Options -Indexes) para no exponer la estructura del servidor web
 - [x] (ítem B, pendiente)
 - [x] (ítem C, pendiente)
